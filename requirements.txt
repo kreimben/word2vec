@@ -1,0 +1,7 @@
+icecream
+numpy
+jupyter
+ydata-profiling
+nltk
+gensim
+konlpy
