@@ -1,9 +1,10 @@
 icecream
 numpy
 jupyter
-ydata-profiling
 nltk
 gensim
 konlpy
 kaggle
 soynlp
+scikit-learn
+matplotlib
